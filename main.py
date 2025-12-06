@@ -15,7 +15,7 @@ set_site_information(
     assignment grade for that course. """,
     sources = [""],
     planning = [""],
-    links = [""]
+    links = ["https://github.com/UD-F25-CS1/honors-hackathon-2025-emily-and-ashlyn"]
 )
 
 #-------------------background-------------------
