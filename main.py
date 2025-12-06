@@ -7,14 +7,15 @@ set_website_framed(False)
 
 set_website_title("Assignment Tracker")
 set_site_information(
-    "Ashlyn Almeida and Emily Bosak",
-"""
-    This website acts as an assignment tracker.
+    author = "Ashlyn Almeida (aalmeida@udel.edu) and Emily Bosak (erbosak@udel.edu)",
+    description = """ This website acts as an assignment tracker.
     Users can add as many courses as they'd like,
     add assignments for each course,
     and calculate an average grade based on each
-    assignment grade for that course. 
-"""
+    assignment grade for that course. """,
+    sources = [""],
+    planning = [""],
+    links = [""]
 )
 
 #-------------------background-------------------
